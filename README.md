@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello! I'm JorG</h1>
-  <h2>💻 Software Developer & Cybersecurity Enthusiast from Spain 🇪🇸</h2>
+  <h3>💻 Software Developer & Cybersecurity Enthusiast from Spain 🇪🇸</h3>
 </div>
 
 ---
