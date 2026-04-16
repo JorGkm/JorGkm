@@ -1,24 +1,29 @@
 <div align="center">
   <h1>👋 Hello! I'm JorG</h1>
-  <p>💻 Software Developer & Cybersecurity Enthusiast from Spain 🇪🇸</p>
+  <h3>💻 Software Developer & Cybersecurity Enthusiast from Spain 🇪🇸</h3>
 </div>
 
 ---
 
 ### 🧰 My Toolbox
 
-<strong>OS & Terminal</strong><br>
+<strong>OS & Terminal</strong>
+<br><br>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,kali,windows,apple,bash,powershell" />
 
-<br>
+<br><br>
 
-<strong>Languages & Frameworks</strong><br>
+<strong>Languages & Frameworks</strong>
+<br><br>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,dart,js,html,css,mysql" />
 
-<br>
+<br><br>
 
-<strong>Tools & IDEs</strong><br>
+<strong>Tools & IDEs</strong>
+<br><br>
 <img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,unity,rider,git,github,ps" />
+
+<br><br>
 
 ---
 
