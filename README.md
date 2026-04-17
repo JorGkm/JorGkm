@@ -9,19 +9,19 @@
 
 <strong>OS & Terminal</strong>
 <br><br>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,kali,windows,apple,bash,powershell" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,kali,windows,apple,bash,powershell" height="50px"/>
 
 <br><br>
 
 <strong>Languages & Frameworks</strong>
 <br><br>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,dart,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,kotlin,dart,js,html,css,mysql" height="50px"/>
 
 <br><br>
 
 <strong>Tools & IDEs</strong>
 <br><br>
-<img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,unity,rider,git,github,ps" />
+<img src="https://skillicons.dev/icons?i=vscode,neovim,androidstudio,unity,rider,git,github,ps" height="50px"/>
 
 <br><br>
 
