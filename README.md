@@ -78,6 +78,6 @@
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=5000&color=F7F7F7&center=true&vCenter=true&width=750&lines=Thanks+for+reading!+Have+a+good+day!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=5000&color=F7F7F7&center=true&vCenter=true&width=750&lines=Thanks+for+reading,+have+a+good+day!" alt="Typing SVG" />
   </a>
 </div>
